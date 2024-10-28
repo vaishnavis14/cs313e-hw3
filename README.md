@@ -1,0 +1,1 @@
+This project implements a cipher that encrypts and decrypts strings by rotating them 90 degrees in a square matrix format. The encryption process transforms the original string into a new arrangement, while the decryption reverses this transformation to retrieve the original input. This tool showcases fundamental concepts in data manipulation and algorithm development.
